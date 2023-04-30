@@ -1,0 +1,36 @@
+
+body{
+  text-align: center;
+  
+}
+h1{
+  color: blue;
+  margin-top: 100px;
+}
+h3{
+  margin: 40px auto;
+  font-size: 25px;
+  color: blue;
+}
+.counter{
+  display: inline;
+  color: blue;
+  font-size: 40px;
+  font-weight: 700;
+
+  height: 50px;
+  /* background-color: red; */
+  margin: 0 20px;
+}
+button{
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 30px;
+  line-height: 17px;
+  cursor: pointer;
+  color: blue;
+
+}
+.incrf{
+  margin-left: 20px;
+}
